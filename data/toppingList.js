@@ -1,0 +1,19 @@
+module.exports = [
+  'Bacon',
+  'Chicken',
+  'Beef',
+  'Ham',
+  'Pepperoni',
+  'Salami',
+  'Sausage',
+  'Chedar',
+  'Mozzarella',
+  'Parmesan',
+  'Spinach',
+  'Mushrooms',
+  'Olives',
+  'Anchovies',
+  'Pepper',
+  'Jalepenos',
+  'Pineapple'
+];
